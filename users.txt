@@ -9,7 +9,7 @@ xp
 money
 500
 class
-fighter
+0
 hp
 10
 maxhp
